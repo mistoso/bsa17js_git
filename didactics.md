@@ -1,4 +1,4 @@
-#Дидактика
+# Дидактика
 
 *Dilige et quod vis fac*  
 **Aurelius Augustinus**  
